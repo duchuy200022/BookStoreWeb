@@ -1,9 +1,9 @@
-using Bulky.DataAccess.Data;
-using Bulky.DataAccess.Repository;
-using Bulky.DataAccess.Repository.IRepository;
+using BookStore.DataAccess.Data;
+using BookStore.DataAccess.Repository;
+using BookStore.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using Bulky.Utility;
+using BookStore.Utility;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Stripe;
 

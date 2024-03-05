@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bulky.Models.ViewModels
+namespace BookStore.Models.ViewModels
 {
     public class RoleManagementVM
     {
